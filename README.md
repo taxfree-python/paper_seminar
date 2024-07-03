@@ -3,8 +3,7 @@
 
 # ざっくり読んだ論文
 ## day 1
-- [A Novel Algorithm for Capacitated Vehicle Routing Problem for Smart Cities
-](https://www.mdpi.com/2073-8994/13/10/1923)
+- [A Novel Algorithm for Capacitated Vehicle Routing Problem for Smart Cities](https://www.mdpi.com/2073-8994/13/10/1923)
 - [自動プロンプト最適化のソフトウェア設計](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-2.pdf)
 
 ## day 2
@@ -22,3 +21,23 @@
 - [Transfer Reinforcement Learning for Combinatorial Optimization Problems](https://www.mdpi.com/1999-4893/17/2/87)
 - [RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library](https://arxiv.org/abs/2306.17100)
 - [A gene selection algorithm using simplified swarm optimization with multi-filter ensemble technique](https://www.sciencedirect.com/science/article/abs/pii/S1568494620309339)
+
+## day 4
+- [Online optimisation for ambulance routing in disaster response with partial or no information on victim conditions](https://www.sciencedirect.com/science/article/pii/S0305054823001788)
+- [Analysis and optimization of an ambulance offload delay and allocation problem](https://www.sciencedirect.com/science/article/pii/S0305048316000074)
+- [A light-touch routing optimization tool (RoOT) for vaccine and medical supply distribution in Mozambique](https://doi.org/10.1111/itor.12867)
+- [A multi-objective and multi-period optimization model for urban healthcare waste's reverse logistics network design](https://doi.org/10.1007/s10878-019-00499-7)
+- [Medical Supplies Delivery Route Optimization under Public Health Emergencies Incorporating Metro-based Logistics System](https://doi.org/10.1177/03611981231223287)
+- [A hybrid approach for integrated healthcare cooperative purchasing and supply chain configuration](https://doi.org/10.1007/s10729-013-9262-y)
+- [Are Large Language Models Good Prompt Optimizers?](https://arxiv.org/abs/2402.02101)
+
+## day 5
+- [An Analytical Approach for Dispatch Operations of Emergency Medical Services: A Case Study of COVID-19](https://doi.org/10.1007/s43069-023-00218-3)
+- [Optimizing Ambulance Allocation in Dynamic Urban Environments: A Historic Data-Driven Approach](https://www.mdpi.com/2076-3417/13/21/11671)
+- [Machine Learning Approaches to Bike-Sharing Systems: A Systematic Literature Review](https://www.mdpi.com/2220-9964/10/2/62)
+- [Machine Learning Applications in Surface Transportation Systems: A Literature Review](https://www.mdpi.com/2076-3417/12/18/9156)
+- [Machine learning for next-generation intelligent transportation systems: A survey](https://doi.org/10.1002/ett.4427)
+- [Analyzing large-scale human mobility data: a survey of machine learning methods and applications](https://doi.org/10.1007/s10115-018-1186-x)
+- [Mobility Modeling and Prediction in Bike-Sharing Systems](https://doi.org/10.1145/2906388.2906408)
+- [Understanding Spatiotemporal Patterns of Biking Behavior by Analyzing Massive Bike Sharing Data in Chicago](https://doi.org/10.1371/journal.pone.0137922)
+- [hex2vec: Context-Aware Embedding H3 Hexagons with OpenStreetMap Tags](http://dx.doi.org/10.1145/3486635.3491076)
