@@ -41,3 +41,9 @@
 - [Mobility Modeling and Prediction in Bike-Sharing Systems](https://doi.org/10.1145/2906388.2906408)
 - [Understanding Spatiotemporal Patterns of Biking Behavior by Analyzing Massive Bike Sharing Data in Chicago](https://doi.org/10.1371/journal.pone.0137922)
 - [hex2vec: Context-Aware Embedding H3 Hexagons with OpenStreetMap Tags](http://dx.doi.org/10.1145/3486635.3491076)
+
+## day 6
+- [救急医療システムにおけるドクターカーと救急医療施設との連携よりとらえた適正配置に関する実証的研究](https://www.jstage.jst.go.jp/article/ceispapers/ceis26/0/ceis26_159/_article/-char/ja)
+- [ドクターヘリ及びドクターカー関連施設の配置計画に関する研究 -広域救急医療連携をふまえた基地病院及びランデブーポイント追加の検証-](http://news-sv.aij.or.jp/jyoho/s1/proceedings/2013/pdf/R22.pdf)
+- [ドクターカー・ドクターヘリ導入の医療経済効果と、カバー率向上を目指した最適化配置案に対する費用対効果の検証](https://mhlw-grants.niph.go.jp/system/files/2012/121031/201205015A/201205015A0005.pdf)
+- [GIS を用いた津波避難計画における避難時間の可視化と関連施設の配置計画に関する研究](https://dl.acm.org/doi/10.1145/2906388.2906408)
