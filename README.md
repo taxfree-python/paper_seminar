@@ -1,7 +1,7 @@
 # paper_seminar
 読んだ論文のざっくり説明スライドをあげていく
 
-# ざっくり読んだ論文
+# ゼミ
 ## day 1
 - [A Novel Algorithm for Capacitated Vehicle Routing Problem for Smart Cities](https://www.mdpi.com/2073-8994/13/10/1923)
 - [自動プロンプト最適化のソフトウェア設計](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-2.pdf)
@@ -47,3 +47,12 @@
 - [ドクターヘリ及びドクターカー関連施設の配置計画に関する研究 -広域救急医療連携をふまえた基地病院及びランデブーポイント追加の検証-](http://news-sv.aij.or.jp/jyoho/s1/proceedings/2013/pdf/R22.pdf)
 - [ドクターカー・ドクターヘリ導入の医療経済効果と、カバー率向上を目指した最適化配置案に対する費用対効果の検証](https://mhlw-grants.niph.go.jp/system/files/2012/121031/201205015A/201205015A0005.pdf)
 - [GIS を用いた津波避難計画における避難時間の可視化と関連施設の配置計画に関する研究](https://dl.acm.org/doi/10.1145/2906388.2906408)
+
+# ここから自主ゼミ
+## day 7
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+## day 8
+- [Optimal Scheduling for Laboratory Automation of Life Science Experiments with Time Constraints](https://doi.org/10.1177/24726303211021790)
+- [Augmenting large language models with chemistry tools](https://doi.org/10.1038/s42256-024-00832-8)
